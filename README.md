@@ -20,4 +20,4 @@ Adicionamente, ele calcula a taxa esperada, taxa da operada, taxa efetiva, recei
 
 ## Desenvolvido por
 [Akihiko Sato]  
-[LinkedIn]([https://www.linkedin.com/in/seu-perfil/](https://www.linkedin.com/in/akihikosato/))
+[LinkedIn]([https://www.linkedin.com/in/akihikosato/])
